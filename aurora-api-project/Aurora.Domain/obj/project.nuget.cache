@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8dpSVQRpsWMYmbNVBcqYb6zF+S5q34Ow6oc/L5qywGOtJ2j39gPscmVSBBrdWmuqydDzXlC0ckWZ8HOFqZOsA==",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\decola-dev-avanade-21\\aurora-api-project\\Aurora.Domain\\Aurora.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kleber\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

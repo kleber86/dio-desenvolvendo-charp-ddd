@@ -1,0 +1,12 @@
+C:\Estudos\decola-dev-avanade-21\aurora-api-project\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.deps.json
+C:\Estudos\decola-dev-avanade-21\aurora-api-project\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.dll
+C:\Estudos\decola-dev-avanade-21\aurora-api-project\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.pdb
+C:\Estudos\decola-dev-avanade-21\aurora-api-project\Infra.Shared\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+C:\Estudos\decola-dev-avanade-21\aurora-api-project\Infra.Shared\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+C:\Estudos\decola-dev-avanade-21\aurora-api-project\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csprojAssemblyReference.cache
+C:\Estudos\decola-dev-avanade-21\aurora-api-project\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfoInputs.cache
+C:\Estudos\decola-dev-avanade-21\aurora-api-project\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfo.cs
+C:\Estudos\decola-dev-avanade-21\aurora-api-project\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CoreCompileInputs.cache
+C:\Estudos\decola-dev-avanade-21\aurora-api-project\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CopyComplete
+C:\Estudos\decola-dev-avanade-21\aurora-api-project\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.dll
+C:\Estudos\decola-dev-avanade-21\aurora-api-project\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.pdb
